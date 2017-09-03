@@ -1,4 +1,5 @@
-# Morgan, paste your code here.
+# The following program captures one still when the push button is pressed, saving the still to the Desktop before exiting the program.
+
 import RPi.GPIO as GPIO
 from picamera import PiCamera
 from time import sleep
